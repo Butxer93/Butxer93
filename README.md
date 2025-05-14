@@ -10,7 +10,9 @@ I am a Full Stack Web Developer and Data Analyst with a passion for building sca
 🔹 **Data Skills**: Pandas, NumPy, Seaborn, Plotly, Jupyter Notebooks  
 🔹 **Tools**: Git, Docker, PostgreSQL, MongoDB  
 
-📫 [LinkedIn](https://www.linkedin.com/in/ibonetxebarria)  <!-- | 🌍 [Portfolio](https://yourportfolio.com) -->
+📫 [LinkedIn](https://www.linkedin.com/in/ibonetxebarria)  
+[Curriculum Vitae](ibon_etxebarria_palacios_cv.pdf)  
+<!-- 🌍 [Portfolio](https://yourportfolio.com) -->
 
 ---
 
