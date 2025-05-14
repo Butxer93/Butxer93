@@ -11,7 +11,7 @@ I am a Full Stack Web Developer and Data Analyst with a passion for building sca
 🔹 **Tools**: Git, Docker, PostgreSQL, MongoDB  
 
 📫 [LinkedIn](https://www.linkedin.com/in/ibonetxebarria)  
-[Curriculum Vitae](ibon_etxebarria_palacios_cv.pdf)  
+🎓 [Curriculum Vitae](ibon_etxebarria_palacios_cv.pdf)  
 <!-- 🌍 [Portfolio](https://yourportfolio.com) -->
 
 ---
@@ -24,7 +24,9 @@ Soy Desarrollador Web Full Stack y Analista de Datos. Me especializo en construi
 🔹 **Análisis de Datos**: Pandas, NumPy,  Seaborn, Plotly, Jupyter Notebooks  
 🔹 **Herramientas**: Git, Docker, PostgreSQL, MongoDB  
 
-📫 [LinkedIn](https://www.linkedin.com/in/ibonetxebarria) <!-- | 🌍 [Portfolio](https://yourportfolio.com) -->
+📫 [LinkedIn](https://www.linkedin.com/in/ibonetxebarria)  
+🎓 [Curriculum Vitae](ibon_etxebarria_palacios_cv.pdf)  
+<!-- | 🌍 [Portfolio](https://yourportfolio.com) -->
 
 ---
 
@@ -36,4 +38,6 @@ Full Stack web garatzailea eta datu-analista naiz. Web aplikazio sendoak eraikit
 🔹 **Datuen Analisia**: Pandas, NumPy,  Seaborn, Plotly, Jupyter Notebooks  
 🔹 **Tresnak**: Git, Docker, PostgreSQL, MongoDB  
 
-📫 [LinkedIn](https://www.linkedin.com/in/ibonetxebarria) <!-- | 🌍 [Portfolio](https://yourportfolio.com) -->
+📫 [LinkedIn](https://www.linkedin.com/in/ibonetxebarria)  
+🎓 [Curriculum Vitae](ibon_etxebarria_palacios_cv.pdf)  
+<!-- | 🌍 [Portfolio](https://yourportfolio.com) -->
